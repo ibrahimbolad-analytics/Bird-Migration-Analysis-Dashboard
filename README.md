@@ -174,7 +174,7 @@ CALCULATE(
 ## 📸 Dashboard Preview
 
 ### 1. Bird Migration Summary (Overview)
-![Overview](Screenshot_2026-02-20_232012.png)
+![Overview](Overview.png)
 
 **Highlights:**
 - KPI cards: Total birds, species count, success rate
@@ -187,7 +187,7 @@ CALCULATE(
 ---
 
 ### 2. Migration Behavior Analysis
-![Migration Behavior](Screenshot_2026-02-20_232042.png)
+![Migration Behavior](Migration%20Behavior.png)
 
 **Key Visualizations:**
 - Migration interruption analysis (50.31% interrupted)
@@ -199,7 +199,7 @@ CALCULATE(
 ---
 
 ### 3. Environmental Conditions & Impact
-![Environmental Impact](Screenshot_2026-02-20_232100.png)
+![Environmental Impact](Environmental%20Impact.png)
 
 **Analysis Focus:**
 - Wind speed by habitat (average 30-31 kmph across all habitats)
@@ -211,7 +211,7 @@ CALCULATE(
 ---
 
 ### 4. Tracking & Field Observations
-![Tracking](Screenshot_2026-02-20_232116.png)
+![Tracking](Tracking.png)
 
 **Technical Metrics:**
 - Predator sightings vs. observation quality matrix
